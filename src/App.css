@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: yellowgreen;
+}
+.ul-container{
+  list-style-type: none;
+  padding: 15px;
+  background-color: white;
+  border-radius: 15px;
+  width: 500px;
+}

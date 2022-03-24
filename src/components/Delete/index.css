@@ -1,0 +1,14 @@
+.li-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+}
+.button-1{
+    color: white;
+    background-color: red;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
